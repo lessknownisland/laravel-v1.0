@@ -26,7 +26,7 @@ echo strlen($name) . PHP_EOL;
 
 // 运算符
 echo 10 + 10 . PHP_EOL;
-echo "10dsf" + "10sss" . PHP_EOL;
+echo "10dsf" + "10sss" . PHP_EOL; // 这个为什么会是 20 呢？
 echo 10 . 10 . PHP_EOL;
 
 ?>
